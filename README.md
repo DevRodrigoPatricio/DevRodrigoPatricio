@@ -15,7 +15,7 @@
   <img align="center" alt="DevRodrigoPatricio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="DevRodrigoPatricio-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="DevRodrigoPatricio-angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="right" alt="DevRodrigoPatricio-pic" height="150" style="border-radius:50px;" src="">
+  
 </div>
   
   ##
