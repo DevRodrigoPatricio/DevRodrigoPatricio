@@ -15,16 +15,16 @@ Sou um Analista e Desenvolvedor de Sistemas formado pelo Centro Universitário d
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevRodrigoPatricio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-
+##
  
- ### Programming languages and Techniques
-[![Programming languages](https://skillicons.dev/icons?i=js,html,angular,java,spring,cs,css,dotnet,ts,react,aws,kafka,newrelic&perline=5&theme=light)](https://skillicons.dev)
- ### Tecnologias, Ferramentas e Bibliotecas
-[![Technologies and Tools](https://skillicons.dev/icons?i=git,kubernetes,docker,jquerytheme=light)](https://skillicons.dev)
+ ### Linguagens de programação:
+[![Programming languages](https://skillicons.dev/icons?i=js,angular,java,cs,dotnet,ts,react,newrelic&perline=5&theme=light)](https://skillicons.dev)
+ ### Tecnologias, Ferramentas e frameworks:
+[![Technologies and Tools](https://skillicons.dev/icons?i=postman,git,gitlab,aws,kubernetes,docker,kafka,maven,spring,jquerytheme=light)](https://skillicons.dev)
 
 [![Technologies and Tools](https://skillicons.dev/icons?i=redis,postgres,mysql,mongodb,jquerytheme=light)](https://skillicons.dev)
 
-
+##
 <div align="center">
   <a href="https://github.com/DevRodrigoPatricio"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRodrigoPatricio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
