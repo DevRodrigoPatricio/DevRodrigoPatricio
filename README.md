@@ -1,4 +1,3 @@
-### Olá eu sou o Rodrigo Patricio, Seja Bem-vindo ao meu github🖐️
 
 <div align="center">
   <a href="https://github.com/DevRodrigoPatricio">
