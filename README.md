@@ -14,6 +14,20 @@
   <img align="center" alt="DevRodrigoPatricio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="DevRodrigoPatricio-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="DevRodrigoPatricio-angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+
+   ### Programming languages and Techniques
+[![Programming languages](https://skillicons.dev/icons?i=js,html,angular,java,spring,cs,css,c,vue,wasm,dotnet,linux,vim,ts,react,jquery,lua,aws,gcp,azure,rust,kafka,rabbitmq,newrelic&perline=5&theme=light)](https://skillicons.dev)
+ ### Technologies, Tools and Libraries
+[![Technologies and Tools](https://skillicons.dev/icons?i=git,kubernetes,docker,react,jquerytheme=light)](https://skillicons.dev)
+
+[![Technologies and Tools](https://skillicons.dev/icons?i=discord,bots,redis,redux,sass,sequelize,postgres,mongodb,cloudflare,selenium,jquerytheme=light)](https://skillicons.dev)
+
+
+<div align="center">
+  <a href="https://github.com/jaumdev1"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaumdev1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</a>
+</div>
   
 </div>
   
