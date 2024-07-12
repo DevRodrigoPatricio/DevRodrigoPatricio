@@ -1,3 +1,13 @@
+## Visão Geral
+**Software Developer | MySQL | SQL Server | Java | C# | .NET | VB6 | Spring Boot**
+
+Sou um Analista e Desenvolvedor de Sistemas formado pelo Centro Universitário de Belo Horizonte (UniBH), com um amplo espectro de habilidades em tecnologias de desenvolvimento de ponta, incluindo Java, C#, e Visual Basic 6. Possuo experiência prática com frameworks modernos, como Spring Boot e Angular, além de ser competente em HTML, CSS, JavaScript e TypeScript.
+
+<div>
+    <a href="https://www.linkedin.com/in/rodrigo-patr%C3%ADcio-6383541a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:rodrigopatricio19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-      badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 
 <div align="center">
   <a href="https://github.com/DevRodrigoPatricio">
@@ -11,21 +21,16 @@
  ### Technologies, Tools and Libraries
 [![Technologies and Tools](https://skillicons.dev/icons?i=git,kubernetes,docker,jquerytheme=light)](https://skillicons.dev)
 
-[![Technologies and Tools](https://skillicons.dev/icons?i=redis,postgres,mysql,sql,mongodb,cloudflare,selenium,jquerytheme=light)](https://skillicons.dev)
+[![Technologies and Tools](https://skillicons.dev/icons?i=redis,postgres,mysql,mongodb,jquerytheme=light)](https://skillicons.dev)
 
 
 <div align="center">
-  <a href="https://github.com/jaumdev1"> 
+  <a href="https://github.com/DevRodrigoPatricio"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRodrigoPatricio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 </div>
   
 </div>
   
-  ##
  
-<div>
-    <a href="https://www.linkedin.com/in/rodrigo-patr%C3%ADcio-6383541a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:rodrigopatricio19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-      badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
