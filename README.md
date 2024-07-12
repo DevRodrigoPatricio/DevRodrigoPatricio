@@ -30,6 +30,7 @@ Sou um Analista e Desenvolvedor de Sistemas formado pelo Centro Universitário d
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRodrigoPatricio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 </div>
+
   
 </div>
   
