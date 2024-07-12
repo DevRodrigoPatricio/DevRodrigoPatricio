@@ -8,17 +8,18 @@ Sou um Analista e Desenvolvedor de Sistemas formado pelo Centro Universitário d
     <a href = "mailto:rodrigopatricio19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-      badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+##
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/DevRodrigoPatricio">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevRodrigoPatricio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevRodrigoPatricio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
-   ### Programming languages and Techniques
+ 
+ ### Programming languages and Techniques
 [![Programming languages](https://skillicons.dev/icons?i=js,html,angular,java,spring,cs,css,dotnet,ts,react,aws,kafka,newrelic&perline=5&theme=light)](https://skillicons.dev)
- ### Technologies, Tools and Libraries
+ ### Tecnologias, Ferramentas e Bibliotecas
 [![Technologies and Tools](https://skillicons.dev/icons?i=git,kubernetes,docker,jquerytheme=light)](https://skillicons.dev)
 
 [![Technologies and Tools](https://skillicons.dev/icons?i=redis,postgres,mysql,mongodb,jquerytheme=light)](https://skillicons.dev)
