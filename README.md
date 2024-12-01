@@ -18,11 +18,11 @@ Sou um Analista e Desenvolvedor de Sistemas formado pelo Centro Universitário d
 ##
  
  ### Linguagens de programação:
-[![Programming languages](https://skillicons.dev/icons?i=js,angular,java,cs,dotnet,ts,react,newrelic&perline=5&theme=light)](https://skillicons.dev)
+[![Programming languages](https://skillicons.dev/icons?i=js,java,cs,dotnet,ts,,newrelic&perline=5&theme=light)](https://skillicons.dev)
  ### Tecnologias, Ferramentas e frameworks:
-[![Technologies and Tools](https://skillicons.dev/icons?i=postman,git,gitlab,aws,kubernetes,docker,kafka,maven,spring,jquerytheme=light)](https://skillicons.dev)
+[![Technologies and Tools](https://skillicons.dev/icons?i=postman,git,gitlab,docker,maven,spring,jquerytheme=light)](https://skillicons.dev)
 
-[![Technologies and Tools](https://skillicons.dev/icons?i=redis,postgres,mysql,mongodb,jquerytheme=light)](https://skillicons.dev)
+[![Technologies and Tools](https://skillicons.dev/icons?i=redis,postgres,mysql,jquerytheme=light)](https://skillicons.dev)
 
 ##
 <div align="center">
