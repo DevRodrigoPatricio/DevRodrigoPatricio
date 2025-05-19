@@ -1,7 +1,7 @@
 ## Visão Geral
-**Software Developer | MySQL | SQL Server | Java | C# | .NET | VB6 | Spring Boot**
+**Software Developer | MySQL | SQL Server | Java | C# | .NET  | Spring Boot**
 
-Sou um Analista e Desenvolvedor de Sistemas formado pelo Centro Universitário de Belo Horizonte (UniBH), com um amplo espectro de habilidades em tecnologias de desenvolvimento de ponta, incluindo Java, C#, e Visual Basic 6. Possuo experiência prática com frameworks modernos, como Spring Boot e Angular, além de ser competente em HTML, CSS, JavaScript e TypeScript.
+Sou um Analista e Desenvolvedor de Sistemas formado pelo Centro Universitário de Belo Horizonte (UniBH), com um amplo espectro de habilidades em tecnologias de desenvolvimento de ponta, incluindo Java e C# . Possuo experiência prática com frameworks modernos, como Spring Boot e .net.
 
 <div>
     <a href="https://www.linkedin.com/in/rodrigo-patr%C3%ADcio-6383541a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
